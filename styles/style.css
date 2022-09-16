@@ -7,15 +7,16 @@ body {
 }
 img {
     border-radius: 5%;
-    padding: 8px;
-    max-width: 275px;
-    max-height: 275px;
+    padding: 0.5rem;
+    max-width: 17.1875rem;
+    max-height: 17.1875rem;
 }
-h3 {
-    margin: 16px 32px 16px 32px;
+h1 {
+    margin: 1rem 2rem 1rem 2rem;
     font-family: Outfit;
     font-weight: 700;
     text-align: center;
+    font-size: 1.2rem;
 }
 
 p {
@@ -23,7 +24,7 @@ p {
     font-weight: 400;
     text-align: center;
     color: hsl(220, 15%, 55%);
-    margin: 8px 16px 24px 16px;
+    margin: 0.5rem 1rem 1.5rem 1rem;
 }
 .qrContainer {
     position: absolute;
@@ -34,8 +35,8 @@ p {
     transform: translateX(-50%) translateY(-50%);
     border-radius: 5%;
     margin: auto;
-    padding: 4px;
-    width: 300px;
+    padding: 0.25rem;
+    width: 18.75rem;
     background-color: white;
     display: flex;
     flex-direction: column;
